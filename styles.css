@@ -21,7 +21,7 @@
 	justify-content: center;
 }
 
-.inputTxt {
+.txt-input {
 	box-sizing: border-box;
     display: block;
     width: 50vw;
@@ -36,7 +36,7 @@
 	margin-top: 1rem;
 }
 
-.translateBtn {
+.btn-translate {
 	background-color: #f5e050;
 	border: none;
 	margin: 1rem 0rem;
@@ -55,7 +55,7 @@
 	margin: 2rem;
 }
 
-.outputTxt {
+.txt-output {
 	box-sizing: border-box;
     width: 50vw;
     min-height: 10vh;
