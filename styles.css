@@ -16,6 +16,11 @@
 	background-color: #f5e050;
 }
 
+.hero {
+	display: flex;
+	justify-content: center;
+}
+
 .inputDiv {
 	display: flex;
 	justify-content: center;
@@ -42,6 +47,8 @@
 	margin: 1rem 0rem;
 	padding: 1rem 2rem;
 	font-size: 1.3em;
+	image-rendering: 1.3rem;
+	cursor: pointer;
 }
 
 #justTxt {
